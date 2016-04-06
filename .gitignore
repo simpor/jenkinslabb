@@ -1,0 +1,12 @@
+
+# gradle generated files
+build/
+
+#intellij
+./idea
+*.iml
+
+#eclipse
+.project
+.settings
+
