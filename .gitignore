@@ -3,7 +3,7 @@
 build/
 
 #intellij
-./idea
+.idea/
 *.iml
 
 #eclipse
